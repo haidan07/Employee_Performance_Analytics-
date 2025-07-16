@@ -25,7 +25,4 @@ This project analyzes employee performance using Python and Power BI to help HR 
 - Department-wise analysis
 - Dashboard filters by department and month
 
-## ✅ How to Run
-1. Clone the repo
-2. Run the notebook in `notebooks/` using Jupyter or VSCode
-3. Open Power BI file in `dashboard/` for full dashboard view
+
